@@ -1,0 +1,15 @@
+{
+  "name": "partial-classes",
+  "version": "1.0.0",
+  "main": "dist/test.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thegecko/partial-classes.git"
+  },
+  "dependencies": {
+    "typescript": "^4.3.4"
+  }
+}
